@@ -1,4 +1,5 @@
 # Count word frequency
+# Reese Gallagher
 
 import collections
 
