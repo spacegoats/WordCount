@@ -6,7 +6,7 @@ print "\n\n###### Word Frequency Counter v1 ######"
 print "######### by: Reese Gallagher #########"
 print "# Make sure you change source file in source code! #"
 
-with open('tweetsretweets.txt',"r") as word_list:
+with open('lorem.txt',"r") as word_list:
 	words = word_list.read().split()
 
 words = words.replace(',','')
